@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`checks that DOM is consistent 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    Hello world
+  </h1>
+  <h2>
+    Hello Yulia
+  </h2>
+  <button
+    className="button"
+    data-testid="counter"
+    onClick={[Function]}
+  >
+    0
+  </button>
+</div>
+`;
